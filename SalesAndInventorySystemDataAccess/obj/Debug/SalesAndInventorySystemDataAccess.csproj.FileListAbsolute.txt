@@ -1,0 +1,43 @@
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemDataAccess\bin\Debug\SalesAndInventorySystemDataAccess.dll.config
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemDataAccess\bin\Debug\SalesAndInventorySystemDataAccess.dll
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemDataAccess\bin\Debug\SalesAndInventorySystemDataAccess.pdb
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemDataAccess\bin\Debug\itextsharp.dll
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemDataAccess\bin\Debug\itextsharp.pdfa.dll
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemDataAccess\bin\Debug\itextsharp.xtra.dll
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemDataAccess\bin\Debug\MySql.Data.dll
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemDataAccess\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemDataAccess\bin\Debug\SalesAndInventorySystemModel.dll
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemDataAccess\bin\Debug\SalesAndInventorySystemModel.pdb
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemDataAccess\bin\Debug\itextsharp.xml
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemDataAccess\obj\Debug\SalesAndInventorySystemDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemDataAccess\obj\Debug\SalesAndInventorySystemDataAccess.Migrations.InitialCreate.resources
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemDataAccess\obj\Debug\SalesAndInventorySystemDataAccess.Migrations.abcd.resources
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemDataAccess\obj\Debug\SalesAndInventorySystemDataAccess.Migrations.abcd1.resources
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemDataAccess\obj\Debug\SalesAndInventorySystemDataAccess.Migrations.abcd2.resources
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemDataAccess\obj\Debug\SalesAndInventorySystemDataAccess.csproj.GenerateResource.Cache
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemDataAccess\obj\Debug\SalesAndInventorySystemDataAccess.dll
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemDataAccess\obj\Debug\SalesAndInventorySystemDataAccess.pdb
+D:\SalesAndInventorySystem\SalesAndInventorySystemDataAccess\bin\Debug\SalesAndInventorySystemDataAccess.dll.config
+D:\SalesAndInventorySystem\SalesAndInventorySystemDataAccess\bin\Debug\SalesAndInventorySystemDataAccess.dll
+D:\SalesAndInventorySystem\SalesAndInventorySystemDataAccess\bin\Debug\SalesAndInventorySystemDataAccess.pdb
+D:\SalesAndInventorySystem\SalesAndInventorySystemDataAccess\bin\Debug\EntityFramework.dll
+D:\SalesAndInventorySystem\SalesAndInventorySystemDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\SalesAndInventorySystem\SalesAndInventorySystemDataAccess\bin\Debug\MySql.Data.dll
+D:\SalesAndInventorySystem\SalesAndInventorySystemDataAccess\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\SalesAndInventorySystem\SalesAndInventorySystemDataAccess\bin\Debug\SalesAndInventorySystemModel.dll
+D:\SalesAndInventorySystem\SalesAndInventorySystemDataAccess\bin\Debug\SalesAndInventorySystemModel.pdb
+D:\SalesAndInventorySystem\SalesAndInventorySystemDataAccess\bin\Debug\EntityFramework.xml
+D:\SalesAndInventorySystem\SalesAndInventorySystemDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\SalesAndInventorySystem\SalesAndInventorySystemDataAccess\obj\Debug\SalesAndInventorySystemDataAccess.csprojResolveAssemblyReference.cache
+D:\SalesAndInventorySystem\SalesAndInventorySystemDataAccess\obj\Debug\SalesAndInventorySystemDataAccess.Migrations.InitialCreate.resources
+D:\SalesAndInventorySystem\SalesAndInventorySystemDataAccess\obj\Debug\SalesAndInventorySystemDataAccess.Migrations.abcd.resources
+D:\SalesAndInventorySystem\SalesAndInventorySystemDataAccess\obj\Debug\SalesAndInventorySystemDataAccess.Migrations.abcd1.resources
+D:\SalesAndInventorySystem\SalesAndInventorySystemDataAccess\obj\Debug\SalesAndInventorySystemDataAccess.Migrations.abcd2.resources
+D:\SalesAndInventorySystem\SalesAndInventorySystemDataAccess\obj\Debug\SalesAndInventorySystemDataAccess.csproj.GenerateResource.Cache
+D:\SalesAndInventorySystem\SalesAndInventorySystemDataAccess\obj\Debug\SalesAndInventorySystemDataAccess.dll
+D:\SalesAndInventorySystem\SalesAndInventorySystemDataAccess\obj\Debug\SalesAndInventorySystemDataAccess.pdb
+D:\SalesAndInventorySystem\SalesAndInventorySystemDataAccess\bin\Debug\System.Data.dll

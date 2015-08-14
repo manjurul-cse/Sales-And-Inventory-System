@@ -1,0 +1,11 @@
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemModel\bin\Debug\SalesAndInventorySystemModel.dll
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemModel\bin\Debug\SalesAndInventorySystemModel.pdb
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemModel\bin\Debug\MySql.Data.dll
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemModel\obj\Debug\SalesAndInventorySystemModel.csprojResolveAssemblyReference.cache
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemModel\obj\Debug\SalesAndInventorySystemModel.dll
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemModel\obj\Debug\SalesAndInventorySystemModel.pdb
+D:\SalesAndInventorySystem\SalesAndInventorySystemModel\bin\Debug\SalesAndInventorySystemModel.dll
+D:\SalesAndInventorySystem\SalesAndInventorySystemModel\bin\Debug\SalesAndInventorySystemModel.pdb
+D:\SalesAndInventorySystem\SalesAndInventorySystemModel\obj\Debug\SalesAndInventorySystemModel.dll
+D:\SalesAndInventorySystem\SalesAndInventorySystemModel\obj\Debug\SalesAndInventorySystemModel.pdb
+D:\SalesAndInventorySystem\SalesAndInventorySystemModel\obj\Debug\SalesAndInventorySystemModel.csprojResolveAssemblyReference.cache

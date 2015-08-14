@@ -1,0 +1,81 @@
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemUI\bin\Debug\SalesAndInventorySystemUI.exe.config
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemUI\bin\Debug\SalesAndInventorySystemUI.exe
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemUI\bin\Debug\SalesAndInventorySystemUI.pdb
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemUI\bin\Debug\BarcodeLib.dll
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemUI\bin\Debug\EntityFramework.dll
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemUI\bin\Debug\itextsharp.dll
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemUI\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemUI\bin\Debug\MySql.Data.dll
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemUI\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemUI\bin\Debug\SalesAndInventorySystemDataAccess.dll
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemUI\bin\Debug\SalesAndInventorySystemModel.dll
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemUI\bin\Debug\SalesAndInventorySystemDataAccess.pdb
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemUI\bin\Debug\SalesAndInventorySystemModel.pdb
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemUI\bin\Debug\EntityFramework.xml
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemUI\bin\Debug\itextsharp.xml
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemUI\obj\Debug\SalesAndInventorySystemUI.csprojResolveAssemblyReference.cache
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemUI\obj\Debug\SalesAndInventorySystemUI.UI.BarcodeReader.resources
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemUI\obj\Debug\SalesAndInventorySystemUI.UI.BarcodeUI.resources
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemUI\obj\Debug\SalesAndInventorySystemUI.UI.Form1.resources
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemUI\obj\Debug\SalesAndInventorySystemUI.UI.Form2.resources
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemUI\obj\Debug\SalesAndInventorySystemUI.UI.frmInvoice.resources
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemUI\obj\Debug\SalesAndInventorySystemUI.Properties.Resources.resources
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemUI\obj\Debug\SalesAndInventorySystemUI.UI.frmCategory.resources
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemUI\obj\Debug\SalesAndInventorySystemUI.UI.frmCategoryRecord.resources
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemUI\obj\Debug\SalesAndInventorySystemUI.UI.frmLogin.resources
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemUI\obj\Debug\SalesAndInventorySystemUI.UI.frmMainMenu.resources
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemUI\obj\Debug\SalesAndInventorySystemUI.UI.frmPersonType.resources
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemUI\obj\Debug\SalesAndInventorySystemUI.UI.frmPersonTypeRecord.resources
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemUI\obj\Debug\SalesAndInventorySystem.frmInvoice.resources
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemUI\obj\Debug\SalesAndInventorySystemUI.UI.frmProduct.resources
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemUI\obj\Debug\SalesAndInventorySystemUI.UI.frmProductsRecord.resources
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemUI\obj\Debug\SalesAndInventorySystemUI.UI.frmReportViewer.resources
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemUI\obj\Debug\SalesAndInventorySystemUI.UI.frmSplash.resources
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemUI\obj\Debug\SalesAndInventorySystemUI.csproj.GenerateResource.Cache
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemUI\obj\Debug\SalesAndInventorySystemUI.exe
+C:\Users\PLABON\Documents\Visual Studio 2013\Projects\SalesAndInventorySystem\SalesAndInventorySystemUI\obj\Debug\SalesAndInventorySystemUI.pdb
+D:\SalesAndInventorySystem\SalesAndInventorySystemUI\bin\Debug\SalesAndInventorySystemUI.exe.config
+D:\SalesAndInventorySystem\SalesAndInventorySystemUI\bin\Debug\SalesAndInventorySystemUI.exe
+D:\SalesAndInventorySystem\SalesAndInventorySystemUI\bin\Debug\SalesAndInventorySystemUI.pdb
+D:\SalesAndInventorySystem\SalesAndInventorySystemUI\bin\Debug\EntityFramework.dll
+D:\SalesAndInventorySystem\SalesAndInventorySystemUI\bin\Debug\EntityFramework.SqlServer.dll
+D:\SalesAndInventorySystem\SalesAndInventorySystemUI\bin\Debug\itextsharp.dll
+D:\SalesAndInventorySystem\SalesAndInventorySystemUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\SalesAndInventorySystem\SalesAndInventorySystemUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\SalesAndInventorySystem\SalesAndInventorySystemUI\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\SalesAndInventorySystem\SalesAndInventorySystemUI\bin\Debug\MySql.Data.dll
+D:\SalesAndInventorySystem\SalesAndInventorySystemUI\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\SalesAndInventorySystem\SalesAndInventorySystemUI\bin\Debug\SalesAndInventorySystemDataAccess.dll
+D:\SalesAndInventorySystem\SalesAndInventorySystemUI\bin\Debug\SalesAndInventorySystemModel.dll
+D:\SalesAndInventorySystem\SalesAndInventorySystemUI\bin\Debug\SalesAndInventorySystemDataAccess.pdb
+D:\SalesAndInventorySystem\SalesAndInventorySystemUI\bin\Debug\SalesAndInventorySystemModel.pdb
+D:\SalesAndInventorySystem\SalesAndInventorySystemUI\bin\Debug\EntityFramework.xml
+D:\SalesAndInventorySystem\SalesAndInventorySystemUI\bin\Debug\EntityFramework.SqlServer.xml
+D:\SalesAndInventorySystem\SalesAndInventorySystemUI\bin\Debug\itextsharp.xml
+D:\SalesAndInventorySystem\SalesAndInventorySystemUI\obj\Debug\SalesAndInventorySystemUI.csprojResolveAssemblyReference.cache
+D:\SalesAndInventorySystem\SalesAndInventorySystemUI\obj\Debug\SalesAndInventorySystemUI.UI.BarcodeReader.resources
+D:\SalesAndInventorySystem\SalesAndInventorySystemUI\obj\Debug\SalesAndInventorySystemUI.UI.Form1.resources
+D:\SalesAndInventorySystem\SalesAndInventorySystemUI\obj\Debug\SalesAndInventorySystemUI.UI.Form2.resources
+D:\SalesAndInventorySystem\SalesAndInventorySystemUI\obj\Debug\SalesAndInventorySystemUI.UI.frmInvoice.resources
+D:\SalesAndInventorySystem\SalesAndInventorySystemUI\obj\Debug\SalesAndInventorySystemUI.Properties.Resources.resources
+D:\SalesAndInventorySystem\SalesAndInventorySystemUI\obj\Debug\SalesAndInventorySystemUI.UI.frmCategory.resources
+D:\SalesAndInventorySystem\SalesAndInventorySystemUI\obj\Debug\SalesAndInventorySystemUI.UI.frmCategoryRecord.resources
+D:\SalesAndInventorySystem\SalesAndInventorySystemUI\obj\Debug\SalesAndInventorySystemUI.UI.frmLogin.resources
+D:\SalesAndInventorySystem\SalesAndInventorySystemUI\obj\Debug\SalesAndInventorySystemUI.UI.frmMainMenu.resources
+D:\SalesAndInventorySystem\SalesAndInventorySystemUI\obj\Debug\SalesAndInventorySystemUI.UI.frmPersonType.resources
+D:\SalesAndInventorySystem\SalesAndInventorySystemUI\obj\Debug\SalesAndInventorySystemUI.UI.frmPersonTypeRecord.resources
+D:\SalesAndInventorySystem\SalesAndInventorySystemUI\obj\Debug\SalesAndInventorySystem.frmInvoice.resources
+D:\SalesAndInventorySystem\SalesAndInventorySystemUI\obj\Debug\SalesAndInventorySystemUI.UI.frmProduct.resources
+D:\SalesAndInventorySystem\SalesAndInventorySystemUI\obj\Debug\SalesAndInventorySystemUI.UI.frmProductsRecord.resources
+D:\SalesAndInventorySystem\SalesAndInventorySystemUI\obj\Debug\SalesAndInventorySystemUI.UI.frmReportViewer.resources
+D:\SalesAndInventorySystem\SalesAndInventorySystemUI\obj\Debug\SalesAndInventorySystemUI.UI.frmSplash.resources
+D:\SalesAndInventorySystem\SalesAndInventorySystemUI\obj\Debug\SalesAndInventorySystemUI.csproj.GenerateResource.Cache
+D:\SalesAndInventorySystem\SalesAndInventorySystemUI\obj\Debug\SalesAndInventorySystemUI.exe
+D:\SalesAndInventorySystem\SalesAndInventorySystemUI\obj\Debug\SalesAndInventorySystemUI.pdb
+D:\SalesAndInventorySystem\SalesAndInventorySystemUI\obj\Debug\SalesAndInventorySystemUI.ReportUI.DailySummaryReport.resources
+D:\SalesAndInventorySystem\SalesAndInventorySystemUI\obj\Debug\SalesAndInventorySystemUI.ReportUI.BarcodeUI.resources
+D:\SalesAndInventorySystem\SalesAndInventorySystemUI\obj\Debug\SalesAndInventorySystemUI.ReportUI.TotalReport.resources
